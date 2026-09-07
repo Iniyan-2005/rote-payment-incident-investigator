@@ -1,0 +1,11 @@
+schema_version = 1
+
+[[tools]]
+id = "sed"
+command = "sed"
+required = true
+
+[[tools]]
+id = "ripgrep"
+command = "rg"
+required = true
